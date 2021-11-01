@@ -12,17 +12,16 @@
 }
 .contenedor_informacion
 {
+    background-color: gray;
+    width: 70vw;
+    height: 30vh;
     float: left;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
-}
-.contenedor_imagen
-{
-    display: inline-block;
 }
 .imagen
 {
-    width: 10vh;
-    height: 10vh;
+    width: 30vw;
+    height: 30vh;
+    display: inline-block;
 }

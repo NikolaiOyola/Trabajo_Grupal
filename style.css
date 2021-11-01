@@ -7,4 +7,25 @@
 .contenedor_titulo
 {
     background-color: orange;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 7vh;
+}
+.contenedor_informacion
+{
+    background-color: gray;
+    width: 65vw;
+    height: 25vh;
+    float: left;
+    display: flex;
+    flex-direction: column;
+}
+.imagen
+{
+    width: 25vw;
+    height: 25vh;
+    display: inline-block;
+}
+main
+{
+    padding: 5vh;
 }

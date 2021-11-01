@@ -13,15 +13,19 @@
 .contenedor_informacion
 {
     background-color: gray;
-    width: 70vw;
-    height: 30vh;
+    width: 65vw;
+    height: 25vh;
     float: left;
     display: flex;
     flex-direction: column;
 }
 .imagen
 {
-    width: 30vw;
-    height: 30vh;
+    width: 25vw;
+    height: 25vh;
     display: inline-block;
+}
+main
+{
+    padding: 5vh;
 }

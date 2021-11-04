@@ -1,0 +1,45 @@
+.menu{
+    align-items:flex-start;
+    background-color: darkslategray;
+    color: rgb(184, 154, 94);
+    display: inline-block;
+}
+.menu em:hover{
+    color: rgb(216, 103, 103);
+}
+body{
+    margin: 10px 10%;
+    background-color: bisque;
+    font-family: fantasy;
+    text-align: justify;
+}
+h1{
+    font-size: 100%;
+    font-style: oblique;
+}
+h2{
+    clear: both;
+    padding: 0.2rem 0.5rem;
+    background-color: chocolate;
+    color: darkkhaki;
+    font-size: larger;
+}
+#primer div{
+margin-right: 10%;
+margin-left: 10%;
+text-indent: 3rem;
+}
+#im1{
+    float: left;
+    margin: 0 10px 10px 0;
+ 
+}
+#segundo div{
+    margin-right: 15%;
+margin-left: 15%;
+text-indent: 3rem;
+}
+
+#im2{
+    float: right;
+}
